@@ -87,14 +87,14 @@ elif page == "Projects":
             "📊 Memo_Profile Project": {
                 "type": "Individual",
                 "description": "A project description on what I am doing every day.",
-                "link": "https://github.com/umuhuzaassoumpta/Memo_Profile"
+                "link": "https://github.com/Giramahoro516/student_portfolio"
             }
         },
         "Year 2 Project": {
             "🤖 Cleaning_Dashboard": {
                 "type": "Group",
                 "description": "Dashboard project describing how the cleaner could maintain their profile.",
-                "link": "https://github.com/umuhuzaassoumpta/Cleaning_Dashboard"
+                "link": "https://github.com/Giramahoro516/student_portfolio"                
             }
         },
         "Dissertation": {
@@ -162,4 +162,4 @@ elif page == "Contact":
     st.write("[GitHub Repository](https://github.com/Giramahoro516/student_portfolio)")
 
 st.sidebar.write("---")
-st.sidebar.write("Designed by Rebecca under the supervision of Mclement")
+st.sidebar.write("Designed by isaac under the supervision of Mclement")
